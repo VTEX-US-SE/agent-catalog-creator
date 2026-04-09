@@ -1,0 +1,132 @@
+    {
+      "url": "https://example-catalog.local/product/fashion-beauty-clothing-dresses-p200001",
+      "product": {
+        "Name": "Floral Wrap Midi Dress",
+        "ProductId": "500000001",
+        "Description": "Floral Wrap Midi Dress by Everlane Co., crafted for dresses customers looking for reliable quality and everyday value.",
+        "ShortDescription": "Retail-ready dresses product with practical features and consistent quality.",
+        "KeyWords": "Dresses, Clothing, Fashion & Beauty, retail",
+        "Title": "Everlane Co. Floral Wrap Midi Dress",
+        "IsActive": true,
+        "ShowWithoutStock": false
+      },
+      "categories": [
+        {
+          "Name": "Fashion & Beauty",
+          "Level": 1
+        },
+        {
+          "Name": "Clothing",
+          "Level": 2
+        },
+        {
+          "Name": "Women",
+          "Level": 3
+        },
+        {
+          "Name": "Dresses",
+          "Level": 4
+        }
+      ],
+      "brand": {
+        "Name": "Everlane Co."
+      },
+      "skus": [
+        {
+          "Name": "Floral Wrap Midi Dress - Navy / S",
+          "RefId": "floral-wrap-midi-dress-1",
+          "SkuId": "900000011",
+          "EAN": "7891000900001",
+          "IsActive": true,
+          "activeIfPossible": true,
+          "Price": 153.29,
+          "ListPrice": 1353.67,
+          "Specifications": [
+            {
+              "Name": "Color",
+              "Value": "Navy"
+            },
+            {
+              "Name": "Size",
+              "Value": "XL"
+            },
+            {
+              "Name": "Material",
+              "Value": "Denim"
+            }
+          ],
+          "images": [
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_1.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_2.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_3.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_4.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_5.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_6.png"
+          ]
+        },
+        {
+          "Name": "Floral Wrap Midi Dress - Black / XL",
+          "RefId": "floral-wrap-midi-dress-2",
+          "SkuId": "900000012",
+          "EAN": "7891000900002",
+          "IsActive": true,
+          "activeIfPossible": true,
+          "Price": 452.83,
+          "ListPrice": 96.71,
+          "Specifications": [
+            {
+              "Name": "Color",
+              "Value": "Olive"
+            },
+            {
+              "Name": "Size",
+              "Value": "One Size"
+            },
+            {
+              "Name": "Material",
+              "Value": "Denim"
+            }
+          ],
+          "images": [
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_1.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_2.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_3.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_4.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_5.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_6.png"
+          ]
+        },
+        {
+          "Name": "Floral Wrap Midi Dress - White / L",
+          "RefId": "floral-wrap-midi-dress-3",
+          "SkuId": "900000013",
+          "EAN": "7891000900003",
+          "IsActive": true,
+          "activeIfPossible": true,
+          "Price": 225.35,
+          "ListPrice": 1360.64,
+          "Specifications": [
+            {
+              "Name": "Color",
+              "Value": "Olive"
+            },
+            {
+              "Name": "Size",
+              "Value": "L"
+            },
+            {
+              "Name": "Material",
+              "Value": "Linen"
+            }
+          ],
+          "images": [
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_1.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_2.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_3.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_4.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_5.png",
+            "https://raw.githubusercontent.com/VTEX-US-SE/poc-vtex-day-2026/main/images/500000001_900000011_6.png"
+          ]
+        }
+      ]
+    }

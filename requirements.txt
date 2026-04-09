@@ -1,0 +1,8 @@
+# scripts/generate_catalog_images.py (Gemini + .env + TLS bundles)
+certifi>=2024.8.30
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+# GitHub upload (vtex_agent.tools.image_manager)
+requests>=2.31.0
+# Legacy crawl / HTML tools (sitemap_crawler, gemini_mapper, extract_high_res_images)
+beautifulsoup4>=4.12.0
